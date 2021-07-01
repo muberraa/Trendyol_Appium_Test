@@ -1,0 +1,72 @@
+
+#Uygulamanın anasayfasına ulaşılır
+*"2" saniye bekle
+* "selectGenderBtn" butonuna tıkla
+
+#Hesabım butonuna tıklanır
+*"2" saniye bekle
+* "accountBtn" butonuna tıkla
+
+#Login işlemi gerçekleştirilir
+*"2" saniye bekle
+*"textEmailOnLogin" alanına "<username>" yaz
+*"1" saniye bekle
+* "textPsswrdOnLogin" alanına "<password>" yaz
+*"1" saniye bekle
+* "loginBtn" butonuna tıkla
+*"marketBtn" butonuna tıkla
+*"2" saniye bekle
+*"homeBtn" butonuna tıkla
+
+#Üye Olma işlemi gerçekleştirilir
+* "textRegister" butonuna tıkla
+*"2" saniye bekle
+*"textEmailOnRegister" alanına "<email>" yaz
+*"textPsswrdOnRegister" alanına "<newpassword>" yaz
+*"strongTextOnRegister" alanı yoksa "Geçerli şifre değil" yazdır
+*"2" saniye bekle
+*"selectManOnRegister" butonuna tıkla
+*"registerBtn" butonuna tıkla
+*"2" saniye bekle
+*"codeOnRegister" alanına "<code>" yaz
+*"2" saniye bekle
+*"continueBtn" butonuna tıkla
+
+#Uygulamadan Çıkış Yapılır
+*"hesapBilgilerim" butonuna tıkla
+*"2" saniye bekle
+*"logoutBtn" butonuna tıkla
+*"2" saniye bekle
+*"sureLogoutBtn" butonuna tıkla
+
+
+#Ürün arama kısmına gözlük kelimesi girilir
+*"2" saniye bekle
+* "searchBtn" butonuna tıkla
+*"searchBox" alanına "gözlük" yaz
+*"2" saniye bekle
+*"selectFirstProduct" butonuna tıkla
+
+
+#Ürünlerin listendiği kontrol edilir
+*"2" saniye bekle
+*"listProduct" alanı yoksa "ürünler listelenmedi" yazdır
+
+
+#Listelenen ürünlerden rastgele bir ürün seçilir
+*"2" saniye bekle
+*"selectProduct" butonuna tıkla
+
+#Sepete ekle butonuna tıklanır
+*"2" saniye bekle
+*"addToBasket" butonuna tıkla
+
+#Sepetim sayfasına gidilerek,ürünün sepette göründüğü kontrol edilir
+*"1" saniye bekle
+*"basketControl" alanı yoksa "ürün sepete eklenemedi" yazdır
+
+
+#Sepeti onayla butonuna tıklanır
+*"2" saniye bekle
+*"basketApprove" butonuna tıkla
+

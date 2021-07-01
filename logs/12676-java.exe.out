@@ -1,0 +1,32 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 714milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 714"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 62864"}
+{"logLevel":"info","message":"Listening on port:62864"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.trendyol.steps.StepImplementation.getButtonControl' and 'com.trendyol.steps.StepImplementation.getButtonControl'"}
+{"logLevel":"debug","message":"Found Sayfada {} alanı yoksa {} yazdır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.trendyol.steps.StepImplementation.Click' and 'com.trendyol.steps.StepImplementation.Click'"}
+{"logLevel":"debug","message":"Found {} butonuna tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.trendyol.steps.StepImplementation.bekle' and 'com.trendyol.steps.StepImplementation.bekle'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.trendyol.steps.StepImplementation.textSendKeys' and 'com.trendyol.steps.StepImplementation.textSendKeys'"}
+{"logLevel":"debug","message":"Found {} alanına {} yaz in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSayfada {} alanı yoksa {} yazdır : public void getButtonControl(String key, String msg)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void bekle(ınt key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} alanına {} yaz : public void textSendKeys(String key, String text)"}
+{"logLevel":"debug","message":"\t{} butonuna tıkla : public void Click(String key)"}
+Test!!!!
+Tem 01, 2021 11:59:43 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

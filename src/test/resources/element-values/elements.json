@@ -1,0 +1,135 @@
+[
+  {
+    "key": "selectGenderBtn",
+    "androidValue": "trendyol.com:id/buttonSelectGenderWoman",
+    "androidType": "id"
+  },
+  {
+    "key": "searchBox",
+    "androidValue": "trendyol.com:id/edittext_search_view",
+    "androidType": "id"
+  },
+  {
+    "key": "searchBtn",
+    "androidValue": "trendyol.com:id/imageview_action_start",
+    "androidType": "id"
+  },
+  {
+    "key": "selectFirstProduct",
+    "androidValue": "trendyol.com:id/carouselBannerImageView",
+    "androidType": "id"
+  },
+  {
+    "key": "accountBtn",
+    "androidValue": "trendyol.com:id/tab_account",
+    "androidType": "id"
+  },
+  {
+    "key": "textEmailOnLogin",
+    "androidValue": "trendyol.com:id/editTextEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "textPsswrdOnLogin",
+    "androidValue": "trendyol.com:id/editTextPassword",
+    "androidType": "id"
+  },
+  {
+    "key": "loginBtn",
+    "androidValue": "trendyol.com:id/buttonLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "marketBtn",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "homeBtn",
+    "androidValue": "trendyol.com:id/tab_home",
+    "androidType": "id"
+  },
+  {
+    "key": "selectProduct",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout[1]/nd.m.a.a/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.ImageView[1]",
+    "androidType": "  xpath"
+  },
+  {
+    "key": "listProduct",
+    "androidValue": "trendyol.com:id/recycler_view_search_result",
+    "androidType": "id"
+  },
+  {
+    "key": "addToBasket",
+    "androidValue": "trendyol.com:id/button_add_to_basket",
+    "androidType": "id"
+  },
+  {
+    "key": "basketControl",
+    "androidValue": "trendyol.com:id/imageViewItemBasketProducts",
+    "androidType": "id"
+  },
+  {
+    "key": "basketApprove",
+    "androidValue": "trendyol.com:id/buttonApproveBasket",
+    "androidType": "id"
+  },
+  {
+    "key": "textRegister",
+    "androidValue": "trendyol.com:id/textViewRegister",
+    "androidType": "id"
+  },
+  {
+    "key": "textEmailOnRegister",
+    "androidValue": "trendyol.com:id/editTextEmailOnRegister",
+    "androidType": "id"
+  },
+  {
+    "key": "textPsswrdOnRegister",
+    "androidValue": "trendyol.com:id/editTextPasswordOnRegister",
+    "androidType": "id"
+  },
+
+  {
+    "key": "strongTextOnRegister",
+    "androidValue": "trendyol.com:id/progressInfoTextView",
+    "androidType": "id"
+  },
+  {
+    "key": "selectManOnRegister",
+    "androidValue": "trendyol.com:id/genderSelectorMan",
+    "androidType": "id"
+  },
+  {
+    "key": "registerBtn",
+    "androidValue": "trendyol.com:id/buttonRegister",
+    "androidType": "id"
+  },
+  {
+    "key": "codeOnRegister",
+    "androidValue": "trendyol.com:id/editTextCode",
+    "androidType": "id"
+  },
+  {
+    "key": "continueBtn",
+    "androidValue": "trendyol.com:id/buttonContinue",
+    "androidType": "id"
+  },
+
+  {
+    "key": "hesapBilgilerim",
+    "androidValue": "//*[@class=\"android.widget.ScrollView\"]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[6]/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "logoutBtn",
+    "androidValue": "//*[@class=\"android.widget.ScrollView\"]/android.widget.LinearLayout//androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[7]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sureLogoutBtn",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+]
+
