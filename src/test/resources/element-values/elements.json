@@ -1,0 +1,72 @@
+[
+  {
+    "key": "SELECT_GENDER_BTN",
+    "androidValue": "trendyol.com:id/buttonSelectGenderWoman",
+    "androidType": "id"
+  },
+  {
+    "key": "SEARCH_BOX",
+    "androidValue": "trendyol.com:id/edittext_search_view",
+    "androidType": "id"
+  },
+  {
+    "key": "SEARCH_BTN",
+    "androidValue": "trendyol.com:id/imageview_action_start",
+    "androidType": "id"
+  },
+  {
+    "key": "SELECT_FİRST_PRODUCT",
+    "androidValue": "trendyol.com:id/carouselBannerImageView",
+    "androidType": "id"
+  },
+  {
+    "key": "HESABIM_BTN",
+    "androidValue": "trendyol.com:id/tab_account",
+    "androidType": "id"
+  },
+  {
+    "key": "TEXT_EMAIL",
+    "androidValue": "trendyol.com:id/editTextEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "TEXT_PSSWD",
+    "androidValue": "trendyol.com:id/editTextPassword",
+    "androidType": "id"
+  },
+  {
+    "key": "LOGIN_BTN",
+    "androidValue": "trendyol.com:id/buttonLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "HOME_BTN",
+    "androidValue": "trendyol.com:id/tab_home",
+    "androidType": "id"
+  },
+  {
+    "key": "SELECT_PRODUCT",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout[1]/nd.m.a.a/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.ImageView[1]",
+    "androidType": "  xpath"
+  },
+  {
+    "key": "LIST_CONTROL",
+    "androidValue": "trendyol.com:id/recycler_view_search_result",
+    "androidType": "id"
+  },
+  {
+    "key": "ADD_TO_BASKET",
+    "androidValue": "trendyol.com:id/button_add_to_basket",
+    "androidType": "id"
+  },
+  {
+    "key": "BASKET_CONTROL",
+    "androidValue": "trendyol.com:id/imageViewItemBasketProducts",
+    "androidType": "id"
+  },
+  {
+    "key": "BASKET_APPROVE",
+    "androidValue": "trendyol.com:id/buttonApproveBasket",
+    "androidType": "id"
+  },
+]

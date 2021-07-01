@@ -1,0 +1,54 @@
+Created by testinium on 30.06.2021
+
+This is a concept file with following syntax for each concept.
+
+#Uygulamanın anasayfasına ulaşılır
+*"2" saniye bekle
+* "SELECT_GENDER_BTN" butonuna tıkla
+
+#Hesabım butonuna tıklanır
+*"2" saniye bekle
+* "HESABIM_BTN" butonuna tıkla
+
+#Login işlemi gerçekleştirilir
+*"2" saniye bekle
+*"TEXT_EMAIL" alanına "<username>" yaz
+*"1" saniye bekle
+*"TEXT_PSSWD" alanına "<password>" yaz
+*"1" saniye bekle
+*"LOGIN_BTN" butonuna tıkla
+*"2" saniye bekle
+*"HOME_BTN" butonuna tıkla
+
+
+
+#Ürün arama kısmına gözlük kelimesi girilir
+*"2" saniye bekle
+*"SEARCH_BTN" butonuna tıkla
+*"SEARCH_BOX" alanına "gözlük" yaz
+*"2" saniye bekle
+*"SELECT_FİRST_PRODUCT" butonuna tıkla
+
+
+#Ürünlerin listendiği kontrol edilir
+*"2" saniye bekle
+*Sayfada "LIST_CONTROL" alanı yoksa "ürünler listelenmedi" yazdır
+
+
+#Listelenen ürünlerden rastgele bir ürün seçilir
+*"2" saniye bekle
+*"SELECT_PRODUCT" butonuna tıkla
+
+#Sepete ekle butonuna tıklanır
+*"2" saniye bekle
+*"ADD_TO_BASKET" butonuna tıkla
+
+#Sepetim sayfasına gidilerek,ürünün sepette göründüğü kontrol edilir
+*"1" saniye bekle
+*Sayfada "BASKET_CONTROL" alanı yoksa "ürün sepete eklenemedi" yazdır
+
+
+#Sepeti onayla butonuna tıklanır
+*"2" saniye bekle
+*"BASKET_APPROVE" butonuna tıkla
+
