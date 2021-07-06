@@ -1,75 +1,128 @@
 [
   {
+<<<<<<< HEAD
     "key": "selectGenderBtn",
+=======
+    "key": "SELECT_GENDER_BTN",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/buttonSelectGenderWoman",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "searchBox",
+=======
+    "key": "SEARCH_BOX",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/edittext_search_view",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "searchBtn",
+=======
+    "key": "SEARCH_BTN",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/imageview_action_start",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "selectFirstProduct",
+=======
+    "key": "SELECT_FİRST_PRODUCT",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/carouselBannerImageView",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "accountBtn",
+=======
+    "key": "HESABIM_BTN",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/tab_account",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "textEmailOnLogin",
+=======
+    "key": "TEXT_EMAIL",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/editTextEmail",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "textPsswrdOnLogin",
+=======
+    "key": "TEXT_PSSWD",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/editTextPassword",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "loginBtn",
+=======
+    "key": "LOGIN_BTN",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/buttonLogin",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "marketBtn",
     "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[3]",
     "androidType": "xpath"
   },
   {
     "key": "homeBtn",
+=======
+    "key": "HOME_BTN",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/tab_home",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "selectProduct",
+=======
+    "key": "SELECT_PRODUCT",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout[1]/nd.m.a.a/android.widget.LinearLayout/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.ImageView[1]",
     "androidType": "  xpath"
   },
   {
+<<<<<<< HEAD
     "key": "listProduct",
+=======
+    "key": "LIST_CONTROL",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/recycler_view_search_result",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "addToBasket",
+=======
+    "key": "ADD_TO_BASKET",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/button_add_to_basket",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "basketControl",
+=======
+    "key": "BASKET_CONTROL",
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
     "androidValue": "trendyol.com:id/imageViewItemBasketProducts",
     "androidType": "id"
   },
   {
+<<<<<<< HEAD
     "key": "basketApprove",
     "androidValue": "trendyol.com:id/buttonApproveBasket",
     "androidType": "id"
@@ -133,3 +186,10 @@
   },
 ]
 
+=======
+    "key": "BASKET_APPROVE",
+    "androidValue": "trendyol.com:id/buttonApproveBasket",
+    "androidType": "id"
+  },
+]
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d

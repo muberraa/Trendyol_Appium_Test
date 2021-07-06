@@ -1025,6 +1025,7 @@ Total time taken: 10.257s
 01-07-2021 12:18:42.771 [Gauge] [INFO] 
 Total time taken: 10.153s
 01-07-2021 12:18:42.772 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+<<<<<<< HEAD
 01-07-2021 13:20:36.605 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\testinium\IdeaProjects\com.gauge\TEBMobileAutomation\.gauge\screenshots
 01-07-2021 13:20:36.609 [Gauge] [DEBUG] Plugin java is already installed.
 01-07-2021 13:20:36.611 [Gauge] [DEBUG] Plugin html-report is already installed.
@@ -1106,3 +1107,5 @@ Total time taken: 10.153s
 01-07-2021 13:22:40.895 [Gauge] [INFO] 
 Total time taken: 1m53.482s
 01-07-2021 13:22:40.896 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+=======
+>>>>>>> 95bc9e54f1a05732e446dbe91a99c6bbeee0da9d
