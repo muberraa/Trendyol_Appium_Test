@@ -43,6 +43,7 @@ public class Methods {
     }
 
     public void click(String key) {
+
         findElementByKey(key).click();
     }
 
